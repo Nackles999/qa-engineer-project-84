@@ -1,0 +1,11 @@
+---
+name: Denis Veitsman # Моё имя 
+job: QA Engineer
+level: junior
+email: den.veytsman@gmail.com
+description: |
+  учусь в университете, люблю играть в футбол, очень хочу стать инженером по тестированию
+skills:
+  - написание багрепортов
+  - английский язык B2
+  - MacOS
